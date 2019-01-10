@@ -1,5 +1,5 @@
 # hello-world
-Learning about Github
+
 
 I am Rakesh. I like application development, data analytics and machine learning.
 I use java technologies for application development. For analytics and machine learning 
